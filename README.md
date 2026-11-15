@@ -2,11 +2,6 @@
   <img src="myg.gif" width="300" alt="pixel hacker logo">
 </p>
 
-<h2 align="center">Jaime · Security Engineer (Blue Team / SOC)</h2>
-<p align="center">
-  Zürich, Switzerland · 8+ years in enterprise IT infrastructure · Moving into security operations and incident response
-</p>
-
 <p align="center">
   <a href="https://github.com/jaalso/cybersecurity-portfolio">Portfolio</a> ·
   <a href="https://jaalso.github.io/labs">Lab Write-ups</a> ·
@@ -14,9 +9,6 @@
 </p>
 
 ---
-
-### About
-I come from enterprise IT infrastructure in banking and large organisations, where I supported 400+ users across endpoint security, identity administration and PowerShell automation. Since December 2025 I have been building hands-on security experience, focused on detection, incident response and forensics, with offensive skills used to inform defence.
 
 ### Focus areas
 | Area | What I work on |
@@ -37,11 +29,6 @@ I come from enterprise IT infrastructure in banking and large organisations, whe
 - [**security-research**](https://github.com/jaalso/security-research): Threat verification, privacy and regulatory analysis
 - [**security-scripts**](https://github.com/jaalso/security-scripts): Python tooling for SOC triage, SBOM scanning and typosquatting detection
 
-### Certifications & training
-- Google Cybersecurity Professional Certificate (2026)
-- Microsoft Azure Fundamentals, AZ-900 (2023)
-- Swiss Cyber Institute: CSP training (2025); Cyber Security Specialist (Swiss federal exam), in progress
-- CEH v13, in progress
 
 ### Toolbox
 `Wazuh` `Wireshark` `Volatility` `KAPE` `Burp Suite` `Metasploit` `nmap` `Keycloak` `Python` `PowerShell` `Bash` `Kali Linux` `Docker`
