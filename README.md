@@ -1,11 +1,6 @@
-   _              _
-   (_) __ _  __ _| |___  ___
-   | |/ _` |/ _` | / __|/ _ \
-   | | (_| | (_| | \__ \ (_) |
-  _/ |\__,_|\__,_|_|___/\___/
- |__/
- 
-
+<p align="center">
+  <img src="banner_jaalso.png" width="420" alt="jaalso">
+</p>
 
 <p align="center">
   <a href="https://github.com/jaalso/cybersecurity-portfolio">Portfolio</a> ·
