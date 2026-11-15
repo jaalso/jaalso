@@ -1,6 +1,11 @@
-<p align="center">
-  <img src="hacker_sprite_bw.gif" width="260" alt="Jaalso logo">
-</p>
+   _              _
+   (_) __ _  __ _| |___  ___
+   | |/ _` |/ _` | / __|/ _ \
+   | | (_| | (_| | \__ \ (_) |
+  _/ |\__,_|\__,_|_|___/\___/
+ |__/
+ 
+
 
 <p align="center">
   <a href="https://github.com/jaalso/cybersecurity-portfolio">Portfolio</a> ·
