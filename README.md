@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hacker_sprite.gif" width="300" alt="pixel hacker logo">
+  <img src="myg.gif" width="300" alt="pixel hacker logo">
 </p>
 
 <h3 align="center">IT Infrastructure → Cybersecurity | Blue Team / SOC</h3>
