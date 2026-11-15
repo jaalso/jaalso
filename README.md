@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/jaalso/cybersecurity-portfolio">Portfolio</a> ·
   <a href="https://jaalso.github.io/labs">Lab Write-ups</a> ·
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/jasove">LinkedIn</a>
 </p>
 
 ---
