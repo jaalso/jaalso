@@ -35,4 +35,3 @@
 
 <sub>All work comes from isolated personal labs, authorised targets and training platforms (HTB, THM, PortSwigger, CyberDefenders). It is not commercial pentest work.</sub>
 
-gbf-proof-tIOKWZj11L2pauEUIn0mZPCBMlKnmEfj
